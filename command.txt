@@ -2,9 +2,10 @@
 git init
 # 2. every time to add
 git add .
-git commit -m "first commit"
 
+# every time you commit
+git commit -m "first commit"
 # every time you commit
 git branch -M main
 git remote add origin https://github.com/atikaanan07-max/first-github.git
-git push -u origin main
+git push -u origin main 
